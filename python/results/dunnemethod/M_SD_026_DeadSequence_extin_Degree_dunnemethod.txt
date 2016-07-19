@@ -1,0 +1,3 @@
+animal 1 [plant 3] GC:4
+animal 2 [plant 2] GC:2
+animal 3 [plant 1] GC:1

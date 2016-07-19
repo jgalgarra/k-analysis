@@ -1,0 +1,43 @@
+animal 1 [plant 25, plant 24, plant 30] GC:66
+animal 3 [plant 17] GC:62
+animal 2 [plant 15] GC:60
+animal 4 [] GC:59
+animal 6 [plant 27] GC:55
+animal 8 [plant 28] GC:53
+animal 10 [] GC:49
+animal 7 [plant 9, plant 21] GC:46
+animal 11 [] GC:45
+animal 15 [] GC:42
+animal 9 [plant 31, plant 22] GC:37
+animal 14 [] GC:36
+animal 13 [] GC:35
+animal 19 [] GC:34
+animal 24 [] GC:33
+animal 22 [] GC:32
+animal 23 [] GC:31
+animal 16 [plant 7] GC:29
+animal 18 [plant 6] GC:25
+animal 20 [] GC:24
+animal 17 [] GC:15
+animal 21 [] GC:11
+animal 12 [plant 10] GC:6
+animal 5 [plant 23, plant 5] GC:6
+animal 36 [] GC:3
+animal 27 [] GC:3
+animal 31 [plant 1] GC:3
+animal 35 [plant 8] GC:3
+animal 28 [] GC:3
+animal 25 [plant 2] GC:3
+animal 30 [] GC:3
+animal 34 [plant 4] GC:3
+animal 41 [plant 11] GC:3
+animal 26 [plant 14, plant 13] GC:3
+animal 39 [] GC:2
+animal 43 [plant 16] GC:2
+animal 33 [plant 3] GC:2
+animal 37 [plant 18] GC:2
+animal 38 [plant 20] GC:2
+animal 32 [plant 12] GC:2
+animal 29 [plant 19] GC:2
+animal 42 [plant 26] GC:2
+animal 40 [plant 29] GC:1

@@ -1,0 +1,677 @@
+animal 2 [plant 90, plant 73, plant 74, plant 84] GC:761
+animal 1 [plant 63, plant 79, plant 77, plant 66, plant 61, plant 85, plant 67, plant 86, plant 88, plant 72] GC:750
+animal 3 [plant 91] GC:748
+animal 4 [] GC:745
+animal 5 [plant 87, plant 62, plant 53] GC:741
+animal 6 [plant 57] GC:734
+animal 9 [] GC:733
+animal 8 [] GC:732
+animal 7 [plant 89] GC:730
+animal 10 [] GC:729
+animal 12 [] GC:728
+animal 11 [plant 70] GC:720
+animal 18 [] GC:719
+animal 17 [plant 68] GC:717
+animal 16 [] GC:716
+animal 14 [] GC:715
+animal 15 [] GC:714
+animal 13 [plant 64] GC:708
+animal 20 [] GC:707
+animal 21 [] GC:706
+animal 19 [] GC:705
+animal 22 [] GC:704
+animal 26 [] GC:703
+animal 24 [] GC:702
+animal 23 [plant 52] GC:700
+animal 25 [] GC:699
+animal 27 [] GC:698
+animal 37 [] GC:697
+animal 28 [] GC:696
+animal 29 [] GC:695
+animal 41 [] GC:692
+animal 38 [] GC:691
+animal 35 [] GC:690
+animal 40 [] GC:689
+animal 32 [] GC:688
+animal 34 [plant 58] GC:686
+animal 39 [] GC:685
+animal 42 [] GC:682
+animal 36 [plant 81] GC:680
+animal 31 [plant 80] GC:678
+animal 30 [plant 78] GC:676
+animal 33 [plant 48] GC:672
+animal 52 [] GC:671
+animal 46 [] GC:670
+animal 47 [] GC:669
+animal 50 [] GC:668
+animal 54 [] GC:667
+animal 51 [] GC:666
+animal 48 [] GC:665
+animal 53 [] GC:664
+animal 49 [] GC:663
+animal 45 [plant 59] GC:661
+animal 43 [plant 60] GC:657
+animal 44 [plant 82] GC:655
+animal 76 [] GC:654
+animal 85 [] GC:653
+animal 80 [] GC:652
+animal 78 [] GC:651
+animal 68 [] GC:650
+animal 83 [] GC:649
+animal 74 [] GC:648
+animal 55 [] GC:647
+animal 72 [] GC:646
+animal 64 [] GC:645
+animal 58 [] GC:644
+animal 57 [] GC:643
+animal 79 [] GC:642
+animal 81 [] GC:641
+animal 86 [] GC:640
+animal 77 [] GC:639
+animal 73 [] GC:638
+animal 56 [] GC:637
+animal 60 [] GC:636
+animal 67 [] GC:635
+animal 63 [plant 47] GC:633
+animal 84 [] GC:632
+animal 87 [] GC:631
+animal 75 [] GC:630
+animal 69 [] GC:629
+animal 66 [plant 69] GC:627
+animal 70 [] GC:626
+animal 82 [] GC:625
+animal 65 [] GC:624
+animal 61 [] GC:623
+animal 71 [] GC:622
+animal 62 [plant 83] GC:585
+animal 59 [plant 76, plant 54, plant 56] GC:585
+animal 151 [] GC:584
+animal 161 [] GC:583
+animal 174 [] GC:582
+animal 100 [] GC:581
+animal 143 [] GC:580
+animal 114 [] GC:579
+animal 125 [] GC:578
+animal 175 [] GC:577
+animal 167 [] GC:576
+animal 152 [] GC:575
+animal 88 [] GC:574
+animal 171 [] GC:573
+animal 157 [] GC:572
+animal 107 [] GC:571
+animal 176 [] GC:570
+animal 132 [] GC:569
+animal 98 [] GC:568
+animal 156 [] GC:546
+animal 95 [] GC:545
+animal 91 [] GC:544
+animal 122 [] GC:543
+animal 138 [] GC:542
+animal 106 [] GC:541
+animal 108 [] GC:540
+animal 117 [] GC:539
+animal 150 [] GC:538
+animal 170 [] GC:537
+animal 142 [] GC:536
+animal 126 [] GC:535
+animal 131 [] GC:500
+animal 147 [] GC:484
+animal 137 [] GC:459
+animal 124 [] GC:453
+animal 112 [] GC:452
+animal 120 [] GC:451
+animal 113 [] GC:450
+animal 93 [] GC:450
+animal 177 [] GC:449
+animal 92 [] GC:448
+animal 146 [] GC:447
+animal 160 [] GC:446
+animal 119 [] GC:438
+animal 135 [] GC:438
+animal 165 [] GC:437
+animal 133 [] GC:436
+animal 111 [] GC:435
+animal 141 [] GC:435
+animal 153 [] GC:434
+animal 96 [] GC:433
+animal 168 [] GC:432
+animal 127 [] GC:403
+animal 169 [] GC:385
+animal 164 [] GC:382
+animal 154 [] GC:382
+animal 115 [plant 44] GC:382
+animal 155 [] GC:381
+animal 116 [] GC:366
+animal 99 [] GC:363
+animal 163 [] GC:362
+animal 136 [] GC:307
+animal 101 [] GC:307
+animal 130 [] GC:307
+animal 105 [] GC:306
+animal 89 [] GC:306
+animal 90 [] GC:294
+animal 139 [] GC:245
+animal 148 [] GC:192
+animal 162 [] GC:131
+animal 145 [] GC:131
+animal 110 [] GC:131
+animal 118 [] GC:131
+animal 103 [] GC:131
+animal 128 [] GC:131
+animal 102 [] GC:131
+animal 173 [] GC:131
+animal 158 [] GC:131
+animal 121 [plant 71] GC:131
+animal 144 [] GC:131
+animal 140 [plant 49] GC:131
+animal 123 [] GC:131
+animal 172 [plant 46] GC:131
+animal 166 [] GC:131
+animal 109 [] GC:131
+animal 149 [] GC:131
+animal 159 [] GC:131
+animal 97 [] GC:131
+animal 129 [] GC:131
+animal 134 [] GC:131
+animal 104 [] GC:131
+animal 94 [plant 34] GC:131
+animal 178 [] GC:131
+animal 438 [] GC:131
+animal 453 [] GC:131
+animal 461 [] GC:131
+animal 286 [] GC:131
+animal 183 [] GC:131
+animal 307 [] GC:131
+animal 502 [] GC:131
+animal 508 [] GC:131
+animal 548 [] GC:131
+animal 188 [] GC:131
+animal 673 [] GC:131
+animal 190 [] GC:131
+animal 340 [] GC:131
+animal 386 [] GC:131
+animal 556 [] GC:131
+animal 562 [] GC:131
+animal 588 [] GC:131
+animal 590 [] GC:131
+animal 376 [] GC:131
+animal 229 [] GC:131
+animal 367 [] GC:131
+animal 366 [] GC:131
+animal 222 [] GC:131
+animal 663 [] GC:131
+animal 612 [] GC:131
+animal 444 [] GC:131
+animal 348 [plant 3] GC:131
+animal 498 [] GC:131
+animal 303 [] GC:131
+animal 541 [] GC:131
+animal 535 [] GC:131
+animal 248 [] GC:131
+animal 586 [] GC:131
+animal 261 [] GC:131
+animal 254 [] GC:131
+animal 321 [] GC:131
+animal 181 [] GC:131
+animal 365 [] GC:131
+animal 664 [] GC:131
+animal 182 [] GC:131
+animal 611 [plant 7] GC:131
+animal 311 [] GC:131
+animal 336 [] GC:131
+animal 468 [] GC:131
+animal 335 [] GC:131
+animal 200 [] GC:131
+animal 218 [] GC:131
+animal 249 [] GC:131
+animal 247 [] GC:131
+animal 580 [] GC:131
+animal 582 [] GC:131
+animal 676 [] GC:131
+animal 239 [] GC:131
+animal 473 [] GC:131
+animal 236 [] GC:131
+animal 309 [] GC:131
+animal 285 [] GC:131
+animal 233 [] GC:131
+animal 675 [] GC:131
+animal 674 [] GC:131
+animal 649 [] GC:131
+animal 647 [] GC:131
+animal 296 [] GC:131
+animal 576 [] GC:131
+animal 262 [plant 4] GC:131
+animal 315 [] GC:131
+animal 662 [] GC:131
+animal 186 [] GC:131
+animal 281 [] GC:131
+animal 240 [] GC:131
+animal 600 [] GC:131
+animal 596 [] GC:131
+animal 318 [] GC:131
+animal 471 [] GC:131
+animal 253 [] GC:131
+animal 265 [] GC:131
+animal 306 [] GC:131
+animal 268 [] GC:131
+animal 185 [] GC:131
+animal 362 [] GC:131
+animal 264 [plant 6] GC:131
+animal 447 [] GC:131
+animal 405 [] GC:131
+animal 343 [] GC:131
+animal 352 [] GC:131
+animal 267 [] GC:131
+animal 547 [] GC:131
+animal 301 [] GC:131
+animal 300 [] GC:131
+animal 380 [] GC:131
+animal 446 [] GC:131
+animal 645 [] GC:131
+animal 457 [] GC:131
+animal 314 [] GC:131
+animal 570 [] GC:131
+animal 377 [] GC:131
+animal 334 [] GC:131
+animal 633 [] GC:131
+animal 184 [] GC:131
+animal 341 [] GC:131
+animal 403 [plant 5] GC:131
+animal 595 [] GC:131
+animal 598 [] GC:131
+animal 282 [] GC:131
+animal 279 [] GC:131
+animal 395 [] GC:131
+animal 227 [] GC:131
+animal 602 [] GC:131
+animal 325 [] GC:131
+animal 201 [] GC:131
+animal 626 [] GC:131
+animal 196 [] GC:131
+animal 641 [] GC:131
+animal 513 [] GC:131
+animal 515 [] GC:131
+animal 294 [] GC:131
+animal 646 [] GC:131
+animal 331 [] GC:131
+animal 653 [] GC:131
+animal 207 [] GC:131
+animal 378 [] GC:131
+animal 671 [] GC:131
+animal 555 [] GC:131
+animal 650 [] GC:131
+animal 338 [] GC:131
+animal 672 [] GC:131
+animal 290 [] GC:131
+animal 466 [] GC:131
+animal 284 [] GC:131
+animal 670 [] GC:131
+animal 669 [] GC:131
+animal 655 [] GC:131
+animal 642 [] GC:131
+animal 638 [] GC:131
+animal 388 [] GC:131
+animal 599 [] GC:131
+animal 593 [] GC:131
+animal 592 [] GC:131
+animal 256 [] GC:131
+animal 242 [] GC:131
+animal 449 [plant 2] GC:131
+animal 251 [] GC:131
+animal 194 [] GC:131
+animal 199 [] GC:131
+animal 660 [] GC:131
+animal 656 [] GC:131
+animal 452 [] GC:131
+animal 327 [plant 11] GC:131
+animal 391 [] GC:131
+animal 609 [] GC:131
+animal 484 [] GC:131
+animal 603 [] GC:131
+animal 509 [] GC:131
+animal 263 [] GC:131
+animal 668 [] GC:131
+animal 476 [] GC:131
+animal 257 [] GC:131
+animal 283 [] GC:131
+animal 503 [] GC:131
+animal 250 [] GC:131
+animal 677 [plant 10] GC:131
+animal 337 [] GC:130
+animal 179 [] GC:129
+animal 204 [] GC:128
+animal 332 [] GC:127
+animal 659 [] GC:126
+animal 345 [] GC:125
+animal 658 [] GC:124
+animal 347 [] GC:123
+animal 654 [] GC:122
+animal 349 [] GC:121
+animal 652 [] GC:120
+animal 351 [] GC:119
+animal 636 [] GC:118
+animal 635 [] GC:117
+animal 354 [] GC:116
+animal 634 [] GC:115
+animal 217 [] GC:114
+animal 357 [] GC:113
+animal 358 [] GC:112
+animal 632 [] GC:111
+animal 360 [] GC:110
+animal 361 [] GC:109
+animal 631 [] GC:108
+animal 363 [] GC:107
+animal 364 [] GC:106
+animal 630 [] GC:105
+animal 629 [] GC:104
+animal 628 [] GC:103
+animal 627 [] GC:102
+animal 369 [] GC:101
+animal 370 [] GC:100
+animal 220 [] GC:99
+animal 608 [] GC:98
+animal 373 [] GC:97
+animal 231 [] GC:96
+animal 234 [] GC:95
+animal 237 [] GC:94
+animal 589 [] GC:93
+animal 587 [] GC:92
+animal 584 [] GC:91
+animal 578 [] GC:90
+animal 577 [] GC:89
+animal 564 [] GC:88
+animal 383 [] GC:87
+animal 384 [] GC:86
+animal 385 [] GC:85
+animal 561 [] GC:84
+animal 560 [] GC:83
+animal 559 [] GC:82
+animal 389 [] GC:81
+animal 390 [] GC:80
+animal 557 [] GC:79
+animal 258 [] GC:78
+animal 550 [] GC:77
+animal 546 [] GC:76
+animal 266 [] GC:75
+animal 539 [] GC:74
+animal 528 [] GC:73
+animal 398 [] GC:72
+animal 399 [] GC:71
+animal 527 [] GC:70
+animal 525 [] GC:69
+animal 524 [] GC:68
+animal 523 [] GC:67
+animal 522 [] GC:66
+animal 521 [] GC:65
+animal 406 [] GC:64
+animal 407 [] GC:63
+animal 408 [] GC:62
+animal 409 [] GC:61
+animal 410 [] GC:60
+animal 411 [] GC:59
+animal 412 [] GC:58
+animal 413 [] GC:57
+animal 414 [] GC:56
+animal 520 [] GC:55
+animal 416 [] GC:54
+animal 417 [] GC:53
+animal 418 [] GC:52
+animal 419 [] GC:51
+animal 420 [] GC:50
+animal 519 [] GC:49
+animal 518 [] GC:48
+animal 423 [] GC:47
+animal 512 [] GC:46
+animal 511 [] GC:45
+animal 426 [] GC:44
+animal 427 [] GC:43
+animal 428 [] GC:42
+animal 429 [] GC:41
+animal 430 [] GC:40
+animal 431 [] GC:39
+animal 510 [] GC:38
+animal 339 [] GC:37
+animal 434 [] GC:36
+animal 435 [] GC:35
+animal 507 [] GC:34
+animal 506 [] GC:33
+animal 504 [] GC:32
+animal 439 [] GC:31
+animal 440 [] GC:30
+animal 441 [] GC:29
+animal 442 [] GC:28
+animal 443 [] GC:27
+animal 500 [] GC:26
+animal 276 [] GC:25
+animal 491 [] GC:24
+animal 298 [] GC:23
+animal 489 [] GC:22
+animal 486 [] GC:21
+animal 450 [] GC:20
+animal 451 [] GC:20
+animal 483 [] GC:20
+animal 481 [] GC:20
+animal 454 [] GC:20
+animal 455 [] GC:20
+animal 456 [] GC:20
+animal 479 [] GC:20
+animal 458 [] GC:20
+animal 459 [] GC:20
+animal 460 [] GC:20
+animal 478 [] GC:20
+animal 462 [] GC:20
+animal 463 [] GC:20
+animal 464 [] GC:20
+animal 477 [] GC:20
+animal 289 [] GC:20
+animal 474 [] GC:20
+animal 472 [] GC:20
+animal 469 [plant 1] GC:20
+animal 270 [] GC:20
+animal 530 [] GC:20
+animal 224 [] GC:20
+animal 571 [] GC:20
+animal 536 [] GC:20
+animal 667 [] GC:20
+animal 572 [] GC:20
+animal 558 [] GC:20
+animal 210 [] GC:20
+animal 304 [] GC:20
+animal 206 [] GC:20
+animal 313 [] GC:20
+animal 209 [] GC:20
+animal 568 [plant 12] GC:20
+animal 213 [] GC:20
+animal 278 [] GC:20
+animal 280 [] GC:20
+animal 601 [] GC:20
+animal 320 [] GC:20
+animal 324 [] GC:20
+animal 583 [] GC:20
+animal 299 [] GC:20
+animal 565 [] GC:20
+animal 567 [] GC:20
+animal 613 [] GC:20
+animal 606 [] GC:20
+animal 291 [] GC:20
+animal 605 [plant 9] GC:20
+animal 604 [] GC:19
+animal 496 [] GC:18
+animal 531 [] GC:17
+animal 382 [] GC:16
+animal 533 [] GC:15
+animal 485 [] GC:14
+animal 198 [] GC:14
+animal 540 [] GC:14
+animal 404 [] GC:14
+animal 575 [] GC:14
+animal 597 [] GC:14
+animal 245 [] GC:14
+animal 432 [] GC:14
+animal 554 [] GC:14
+animal 585 [] GC:14
+animal 579 [] GC:14
+animal 187 [] GC:14
+animal 505 [] GC:14
+animal 581 [plant 8] GC:14
+animal 379 [] GC:14
+animal 272 [] GC:14
+animal 232 [] GC:14
+animal 436 [] GC:14
+animal 437 [] GC:14
+animal 275 [] GC:14
+animal 490 [plant 14] GC:14
+animal 665 [] GC:14
+animal 526 [] GC:14
+animal 230 [plant 32] GC:14
+animal 189 [] GC:14
+animal 288 [] GC:14
+animal 381 [] GC:14
+animal 542 [] GC:14
+animal 651 [] GC:14
+animal 639 [plant 19] GC:14
+animal 356 [] GC:14
+animal 493 [] GC:14
+animal 400 [] GC:14
+animal 499 [] GC:14
+animal 394 [] GC:14
+animal 470 [] GC:14
+animal 214 [] GC:14
+animal 492 [plant 17] GC:14
+animal 246 [] GC:14
+animal 610 [] GC:14
+animal 397 [] GC:14
+animal 566 [plant 26] GC:14
+animal 549 [] GC:14
+animal 317 [plant 29] GC:14
+animal 274 [] GC:14
+animal 208 [] GC:14
+animal 255 [] GC:14
+animal 273 [] GC:14
+animal 193 [] GC:14
+animal 310 [plant 22] GC:14
+animal 368 [] GC:14
+animal 415 [] GC:14
+animal 475 [] GC:14
+animal 465 [] GC:14
+animal 563 [] GC:14
+animal 552 [] GC:14
+animal 344 [plant 18] GC:14
+animal 501 [plant 41] GC:14
+animal 648 [] GC:14
+animal 425 [] GC:14
+animal 359 [] GC:14
+animal 421 [] GC:14
+animal 637 [] GC:14
+animal 195 [] GC:14
+animal 316 [plant 16] GC:14
+animal 532 [] GC:14
+animal 574 [] GC:14
+animal 392 [] GC:14
+animal 573 [plant 40] GC:14
+animal 607 [] GC:14
+animal 534 [] GC:14
+animal 221 [] GC:14
+animal 494 [] GC:14
+animal 203 [plant 27] GC:14
+animal 551 [plant 37] GC:14
+animal 295 [] GC:14
+animal 287 [] GC:14
+animal 644 [] GC:14
+animal 305 [] GC:14
+animal 312 [] GC:14
+animal 297 [] GC:14
+animal 643 [] GC:14
+animal 293 [plant 13] GC:14
+animal 225 [plant 43] GC:14
+animal 353 [] GC:14
+animal 480 [] GC:14
+animal 374 [] GC:14
+animal 375 [] GC:14
+animal 544 [] GC:14
+animal 529 [plant 20] GC:14
+animal 553 [] GC:14
+animal 495 [] GC:14
+animal 319 [] GC:14
+animal 537 [] GC:14
+animal 422 [] GC:14
+animal 308 [] GC:14
+animal 329 [] GC:14
+animal 326 [plant 21] GC:14
+animal 260 [plant 45] GC:14
+animal 322 [] GC:14
+animal 211 [] GC:14
+animal 516 [plant 28] GC:14
+animal 238 [] GC:14
+animal 212 [plant 36] GC:14
+animal 487 [plant 65] GC:14
+animal 241 [plant 39] GC:14
+animal 323 [] GC:14
+animal 192 [] GC:14
+animal 243 [] GC:14
+animal 396 [] GC:14
+animal 488 [] GC:14
+animal 545 [] GC:14
+animal 569 [plant 25] GC:14
+animal 666 [] GC:14
+animal 269 [plant 42] GC:14
+animal 205 [] GC:14
+animal 226 [] GC:14
+animal 330 [plant 38] GC:14
+animal 302 [] GC:14
+animal 180 [] GC:14
+animal 482 [] GC:14
+animal 393 [] GC:14
+animal 517 [] GC:14
+animal 445 [] GC:14
+animal 467 [] GC:14
+animal 228 [] GC:14
+animal 202 [plant 23] GC:14
+animal 661 [plant 51] GC:14
+animal 624 [] GC:13
+animal 621 [] GC:12
+animal 620 [] GC:12
+animal 625 [] GC:12
+animal 622 [] GC:12
+animal 623 [] GC:12
+animal 619 [] GC:12
+animal 618 [] GC:12
+animal 617 [] GC:12
+animal 616 [] GC:12
+animal 615 [] GC:12
+animal 614 [] GC:12
+animal 223 [plant 15] GC:12
+animal 244 [] GC:12
+animal 346 [] GC:12
+animal 591 [] GC:12
+animal 387 [plant 35] GC:12
+animal 640 [plant 50] GC:12
+animal 433 [] GC:12
+animal 215 [] GC:12
+animal 235 [] GC:12
+animal 216 [] GC:12
+animal 543 [plant 31] GC:12
+animal 219 [] GC:11
+animal 371 [] GC:10
+animal 197 [] GC:9
+animal 372 [] GC:8
+animal 424 [] GC:7
+animal 350 [] GC:7
+animal 355 [] GC:7
+animal 191 [] GC:7
+animal 271 [] GC:7
+animal 328 [] GC:7
+animal 333 [plant 24] GC:7
+animal 252 [] GC:6
+animal 538 [] GC:6
+animal 657 [] GC:6
+animal 259 [] GC:6
+animal 514 [] GC:6
+animal 292 [plant 30] GC:6
+animal 402 [] GC:5
+animal 342 [] GC:4
+animal 594 [] GC:3
+animal 401 [] GC:2
+animal 497 [plant 33] GC:2
+animal 448 [plant 55] GC:2
+animal 277 [plant 75] GC:1

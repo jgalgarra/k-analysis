@@ -1,0 +1,81 @@
+animal 1 [plant 23, plant 24, plant 29] GC:104
+animal 3 [] GC:103
+animal 4 [] GC:102
+animal 6 [] GC:101
+animal 8 [] GC:100
+animal 7 [] GC:99
+animal 11 [] GC:98
+animal 9 [] GC:97
+animal 15 [] GC:96
+animal 21 [] GC:95
+animal 16 [] GC:94
+animal 5 [] GC:93
+animal 39 [] GC:92
+animal 29 [] GC:91
+animal 42 [] GC:90
+animal 30 [] GC:89
+animal 23 [] GC:88
+animal 17 [] GC:87
+animal 2 [plant 26, plant 21, plant 20] GC:83
+animal 27 [] GC:82
+animal 40 [] GC:81
+animal 24 [] GC:80
+animal 26 [] GC:79
+animal 20 [] GC:78
+animal 18 [plant 22] GC:76
+animal 41 [] GC:75
+animal 34 [] GC:74
+animal 44 [plant 6] GC:72
+animal 14 [plant 10] GC:70
+animal 38 [] GC:67
+animal 25 [] GC:66
+animal 43 [] GC:65
+animal 45 [] GC:62
+animal 28 [] GC:61
+animal 33 [] GC:51
+animal 74 [] GC:51
+animal 68 [] GC:51
+animal 75 [] GC:51
+animal 71 [] GC:51
+animal 79 [] GC:51
+animal 65 [] GC:51
+animal 76 [] GC:51
+animal 77 [plant 1] GC:51
+animal 10 [plant 28] GC:49
+animal 35 [] GC:40
+animal 32 [plant 18] GC:40
+animal 72 [] GC:40
+animal 60 [] GC:40
+animal 49 [] GC:40
+animal 81 [] GC:40
+animal 51 [plant 2] GC:40
+animal 13 [] GC:21
+animal 48 [] GC:20
+animal 47 [] GC:19
+animal 19 [] GC:14
+animal 78 [] GC:14
+animal 73 [] GC:14
+animal 58 [] GC:14
+animal 59 [] GC:14
+animal 54 [] GC:14
+animal 70 [] GC:14
+animal 62 [] GC:14
+animal 63 [] GC:14
+animal 64 [] GC:14
+animal 53 [] GC:14
+animal 69 [] GC:14
+animal 67 [plant 3] GC:14
+animal 36 [plant 14] GC:14
+animal 66 [plant 4] GC:14
+animal 12 [plant 16, plant 11] GC:7
+animal 37 [] GC:5
+animal 57 [plant 7] GC:5
+animal 50 [plant 8] GC:5
+animal 31 [plant 25] GC:5
+animal 55 [plant 5] GC:5
+animal 46 [plant 13] GC:5
+animal 22 [plant 27, plant 15] GC:2
+animal 61 [plant 17] GC:2
+animal 56 [plant 12] GC:2
+animal 52 [plant 9] GC:2
+animal 80 [plant 19] GC:1
