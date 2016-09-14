@@ -1,3 +1,9 @@
+# Creates the correlation plot of degree vs kdegree and cumulative distribution plots
+# Output data at "graphs/"
+#
+# Requires: "datos_analisis_condegs.RData"
+
+
 library(grid)
 library(gridExtra)
 library(stargazer)
@@ -110,7 +116,7 @@ if (languageEl == "EN"){
 } else {
   xcorrtxt = "Correlación degree kdegree"
   ycorrtxt = "Número de redes"
-  cumulativetxt = "Función de distribución"
+  cumulativetxt = "Distribución acumulada"
   xscale = "escala degree"
 }
 

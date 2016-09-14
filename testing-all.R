@@ -1,5 +1,9 @@
 # Analysis of all networks
 # Creates the file "results/datos_analisis.RData"
+#
+# If analizatodo is TRUE all networks stored in the data directoty will be analyzed.
+# 
+# 
 
 library(scales)
 library(grid)

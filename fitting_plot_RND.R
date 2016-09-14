@@ -1,6 +1,5 @@
 # Paint plots of rewiring experiment
-# Output data at results_rnd/figd
-#
+# Output data at results_rnd/figs
 # Parameters:
 #  alldir <- TRUE    Analyisis of all networks at data/M*.csv
 # Requires:

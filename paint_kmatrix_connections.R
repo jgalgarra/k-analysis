@@ -1,5 +1,5 @@
 # This script generates the k-shell density matrixes 
-# the null model of one network
+# of all networks
 #
 # Plots are stored at graphs/matrix 
 #
